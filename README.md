@@ -62,7 +62,7 @@
 
 ## 👨‍💼 Work Experience  
 
-### **Social Intern | Kriti Foundation** *(Jun 2023 - Jul 2023)*  
+### **Social Intern | Aadrika NGO** *(Jun 2023 - Jul 2023)*  
 ✔️ **Documented activities & progress** for women's empowerment initiatives.  
 ✔️ **Organized community rallies** to educate diverse audiences.  
 
