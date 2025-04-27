@@ -72,7 +72,6 @@
 
 - 🏆 **AWS Academy Cloud Security Foundations**  
 - 🏆 **AWS Academy Cloud Practitioner Essentials**  
-- 🏆 **Oracle Cloud Infrastructure Foundations Associate**  
 
 ---
 
