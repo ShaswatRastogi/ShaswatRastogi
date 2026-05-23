@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://linkedin.com/in/shaswatrastogi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://www.linkedin.com/in/shaswat-rastogi-019317268/?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
