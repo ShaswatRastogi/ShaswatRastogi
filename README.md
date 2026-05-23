@@ -1,102 +1,133 @@
-<h1 align="center">Hi 👋, I'm Shaswat Rastogi</h1>
-<h3 align="center">Aspiring Software Developer | Passionate About Full Stack & Cloud Technologies</h3>
+<div align="center">
 
+# Hey there 👋 I'm Shaswat Rastogi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;FastAPI+%7C+React+%7C+Spring+Boot;Cloud+Computing+%7C+DevOps+Enthusiast;Always+Learning+New+Techs" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Developer;Cloud+%7C+AI+%7C+Full-Stack+Builder;Building+Scalable+Applications" />
 
----
+<br>
 
-## 🚀 About Me  
+<a href="mailto:shaswatrastogi91@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🎓 **Education:**  
-- **Bachelor of Technology (B.Tech) in Computer Science** @ *UPES, Dehradun* (Aug 2022 – Present) | **CGPA: 7.1/10**  
-- **Intermediate (PCM)** @ *SAJS, Ghaziabad* (2020 - 2022) | **80%**  
-- **High School** @ *SAJS, Ghaziabad* (2019 - 2020) | **85%**  
+<a href="https://github.com/ShaswatRastogi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-💡 **What I Do?**  
-✔️ I build **Full Stack Web Apps** using **React & Spring Boot**.  
-✔️ I explore **Cloud Technologies** like **AWS & Kubernetes**.  
-✔️ I contribute to **open-source projects** and **Tech Communities**.  
+<a href="https://linkedin.com/in/shaswatrastogi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💭 **Fun Fact:** *"I automate things to avoid doing them manually 😆"*
+</div>
 
 ---
 
-## 🛠 Tech Stack  
+## 🚀 About Me
 
-### 🌐 Web Development  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+I'm a Computer Science undergraduate passionate about building scalable software and intelligent systems.
 
-### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+My interests lie at the intersection of:
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+☁ Cloud Computing  
+🤖 Artificial Intelligence  
+📱 Mobile Development  
+⚡ Backend Engineering  
 
-### 🛠 Developer Tools  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+I enjoy transforming ideas into real-world applications through practical projects and continuous learning.
 
 ---
 
-## 🏗️ Projects  
+## 💻 Tech Stack
 
-### **📌 Campus Navigation Using Shortest Path Algorithm**  
-🚀 *Developed using HTML, Java Spring Boot, CSS, and JavaScript*  
+### Languages & Frameworks
 
-✅ **Dijkstra’s Algorithm** for optimal route calculation.  
-✅ **Interactive map interface** for start & destination input.  
-✅ **Real-time campus data integration** for accurate navigation.  
-✅ **Fastest route calculation** for seamless user experience.  
-🔧 **Tech Stack:** `Spring Boot` | `JavaScript` | `HTML` | `CSS`  
-
----
-
-## 👨‍💼 Work Experience  
-
-### **Social Intern | Aadrika NGO** *(Jun 2023 - Jul 2023)*  
-✔️ **Documented activities & progress** for women's empowerment initiatives.  
-✔️ **Organized community rallies** to educate diverse audiences.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI)
 
 ---
 
-## 🎖️ Certifications  
+### AI & Cloud
 
-- 🏆 **AWS Academy Cloud Security Foundations**  
-- 🏆 **AWS Academy Cloud Practitioner Essentials**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaswatRastogi&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaswatRastogi&theme=radical" height="165" />
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ---
 
-## 🌍 Let's Connect!  
-<p align="center">
-  <a href="mailto:Shaswatrastogi91@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/shaswat-rastogi-019317268/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/ShaswatRastogi">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-🌟 **"Strive for progress, not perfection!"** 🚀  
+## 🌟 Featured Project
+
+# SmartStay — AI Powered Hostel Management System
+
+🏢 Full-stack mobile application designed to digitize end-to-end hostel operations
+
+### Features
+
+✅ Role Based Access Control  
+✅ AI Chat Assistant using LangChain  
+✅ Real-time Notifications  
+✅ QR Visitor Pass System  
+✅ Secure Authentication with 2FA  
+✅ Complaint & Maintenance Management  
+✅ Attendance Tracking  
+
+**Tech Used**
+
+React Native • FastAPI • Python • PostgreSQL • Firebase • LangChain
+
+🔗 Repository:
+
+```bash
+https://github.com/ShaswatRastogi/Smart-Hostel-Management-Application
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShaswatRastogi&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaswatRastogi&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaswatRastogi&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+📌 Strengthening DSA & problem solving  
+📌 Building AI-powered applications  
+📌 Exploring scalable cloud systems  
+📌 Improving Full Stack development skills
+
+---
+
+<div align="center">
+
+### Building. Learning. Improving.
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
