@@ -1,93 +1,104 @@
 <div align="center">
 
-# Hey there 👋 I'm Shaswat Rastogi
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Developer;Cloud+%7C+AI+%7C+Full-Stack+Builder;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hey+there+👋+I'm+Shaswat+Rastogi;Python+%7C+Cloud+%7C+AI+%7C+Full-Stack;Building+Scalable+Applications" />
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=ShaswatRastogi&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<br><br>
+
 <a href="mailto:shaswatrastogi91@gmail.com">
-<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ShaswatRastogi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/shaswatrastogi">
-<img src="https://www.linkedin.com/in/shaswat-rastogi-019317268/?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/shaswat-rastogi-019317268/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I'm a Computer Science undergraduate passionate about building scalable software and intelligent systems.
+```yaml
+Name: Shaswat Rastogi
+Education: B.Tech CSE (Cloud Computing & Virtualization Technology)
+Location: India
 
-My interests lie at the intersection of:
+Interests:
+   - Artificial Intelligence
+   - Cloud Computing
+   - Full Stack Development
+   - Mobile Applications
 
-☁ Cloud Computing  
-🤖 Artificial Intelligence  
-📱 Mobile Development  
-⚡ Backend Engineering  
-
-I enjoy transforming ideas into real-world applications through practical projects and continuous learning.
+Currently:
+   - Building scalable applications
+   - Strengthening DSA & problem solving
+   - Exploring AI workflows
+```
 
 ---
 
-## 💻 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,fastapi,postgresql,sql"/>
+
+</p>
+
+### Cloud • AI • Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github,postman,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+
+</p>
 
 ---
 
-### AI & Cloud
+# 🚀 Featured Project
 
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<div align="center">
 
----
+## SmartStay — AI Powered Hostel Management System
 
-### Databases & Tools
+</div>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+🏢 Full-stack mobile application digitizing end-to-end hostel operations using scalable architecture.
 
----
+### Core Features
 
-## 🌟 Featured Project
+✨ Role-Based Access Control  
+✨ AI Assistant powered by LangChain  
+✨ QR Visitor Pass System  
+✨ Real-time Notifications  
+✨ Complaint & Maintenance Management  
+✨ Secure Authentication + 2FA  
+✨ Attendance Tracking  
 
-# SmartStay — AI Powered Hostel Management System
+### Stack
 
-🏢 Full-stack mobile application designed to digitize end-to-end hostel operations
+```text
+React Native • FastAPI • Python • PostgreSQL
+Firebase • LangChain • Node.js
+```
 
-### Features
-
-✅ Role Based Access Control  
-✅ AI Chat Assistant using LangChain  
-✅ Real-time Notifications  
-✅ QR Visitor Pass System  
-✅ Secure Authentication with 2FA  
-✅ Complaint & Maintenance Management  
-✅ Attendance Tracking  
-
-**Tech Used**
-
-React Native • FastAPI • Python • PostgreSQL • Firebase • LangChain
-
-🔗 Repository:
+Repository:
 
 ```bash
 https://github.com/ShaswatRastogi/Smart-Hostel-Management-Application
@@ -95,38 +106,42 @@ https://github.com/ShaswatRastogi/Smart-Hostel-Management-Application
 
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShaswatRastogi&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShaswatRastogi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaswatRastogi&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaswatRastogi&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<br>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaswatRastogi&theme=tokyo-night"/>
 
-<div align="center">
+<br><br>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaswatRastogi&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaswatRastogi&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-📌 Strengthening DSA & problem solving  
-📌 Building AI-powered applications  
-📌 Exploring scalable cloud systems  
-📌 Improving Full Stack development skills
+<div align="center">
+
+☁ Cloud Systems  
+🤖 AI Applications  
+📱 Mobile Development  
+⚡ Scalable Backend Systems  
+
+</div>
 
 ---
 
 <div align="center">
 
-### Building. Learning. Improving.
+### Building • Learning • Improving
 
 ⭐ Thanks for visiting my profile ⭐
 
