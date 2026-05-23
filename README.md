@@ -1,84 +1,124 @@
 <div align="center">
 
-# Shaswat Rastogi
+<img width="100%" src="YOUR_LINKEDIN_BANNER_URL_HERE"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Python+%7C+Cloud+%7C+AI+%7C+Full-Stack;Building+Scalable+Applications;Always+Learning+and+Building"/>
+<br>
+
+# Hey there 👋 I'm Shaswat Rastogi
+
+### Python • Cloud • AI • Full Stack
+
+Building scalable applications and intelligent systems through practical projects.
 
 <br>
 
 <a href="mailto:shaswatrastogi91@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ShaswatRastogi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shaswat-rastogi-019317268/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shaswat-rastogi-019317268">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About
+## 💫 Current Focus
 
-Computer Science undergraduate focused on building scalable applications and intelligent systems through practical projects and real-world development experience.
+🚀 Building AI-powered applications
 
-Interested in AI systems, cloud technologies, mobile development, and backend engineering.
+☁ Exploring scalable cloud systems
+
+📱 Developing full-stack mobile applications
+
+🧠 Strengthening DSA & problem solving
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,fastapi,postgresql,aws,docker,firebase,git,github"/>
+### Languages & Development
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,fastapi"/>
 
-<br>
+<br><br>
 
-<div align="center">
+### Cloud & AI
+
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase"/>
 
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 
+<br><br>
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=postgresql,git,github,postman,vscode"/>
+
 </div>
 
 ---
 
-## Featured Project
+## 🌟 Featured Project
 
-### SmartStay — AI Powered Hostel Management System
+<div align="center">
 
-Full-stack mobile application designed to digitize hostel operations through a scalable microservices architecture.
+# SmartStay
 
-**Highlights**
+AI Powered Hostel Management System
 
-- AI Assistant using LangChain
-- Role-Based Access Control
-- Real-time notifications
-- QR visitor management
-- Secure authentication + 2FA
-- Complaint & maintenance workflows
+</div>
 
-**Stack**
+Full-stack mobile application designed to digitize end-to-end hostel operations through a scalable microservices architecture.
+
+### Key Features
+
+✨ AI Assistant powered by LangChain
+
+✨ Role Based Access Control
+
+✨ QR Visitor Pass System
+
+✨ Real-time Notifications
+
+✨ Attendance Tracking
+
+✨ Complaint & Maintenance Workflow
+
+✨ Secure Authentication + 2FA
+
+<br>
 
 ```text
-React Native • FastAPI • Python • PostgreSQL
-Firebase • LangChain • Node.js
+React Native • FastAPI • Python • PostgreSQL • Firebase • LangChain
+```
+
+Repository:
+
+```bash
+github.com/ShaswatRastogi/Smart-Hostel-Management-Application
 ```
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShaswatRastogi&show_icons=true&hide_border=true&theme=transparent"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShaswatRastogi&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaswatRastogi&hide_border=true&theme=transparent"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaswatRastogi&hide_border=true&theme=tokyonight"/>
+
+<br><br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaswatRastogi&theme=tokyo-night"/>
 
 </div>
 
@@ -86,6 +126,6 @@ Firebase • LangChain • Node.js
 
 <div align="center">
 
-Building • Learning • Improving
+### Building • Learning • Improving
 
 </div>
